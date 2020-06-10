@@ -3,3 +3,6 @@
 
 # Personal stuff
 _todo.txt
+
+# PyTest stuff
+.pytest_cache
