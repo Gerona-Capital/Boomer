@@ -6,3 +6,6 @@ _todo.txt
 
 # PyTest stuff
 .pytest_cache
+
+# cx_Freeze stuff
+build
