@@ -1,5 +1,7 @@
 Boomer
 ----
+![Test Boomer](https://github.com/Gerona-Capital/Boomer/workflows/Test%20Boomer/badge.svg)
+
 Data entry software for encoders with a deadline.
 
 Features & Benefits
